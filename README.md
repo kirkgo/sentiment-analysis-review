@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Esta é uma solução que faz o scraping dos dados consolidados das ações da Bovespa (D-1), faz o ETL através do Glue e exibe os dados no Athena.
+O projeto Sentiment Analysis Review, composto pela API backend em FastAPI e pelo Dashboard frontend em Next.js/React, oferece uma solução completa e integrada para a análise e visualização de sentimentos em avaliações de produtos.
 
 ## Autor
 
@@ -229,4 +229,4 @@ O arquivo `index.tsx` contém o componente `SentimentDashboard`, que é respons�
 
 ## Considerações Finais
 
-O projeto Sentiment Analysis Review, composto pela API backend em FastAPI e pelo Dashboard frontend em Next.js/React, oferece uma solução completa e integrada para a análise e visualização de sentimentos em avaliações de produtos.
+O projeto Sentiment Analysis Review, com sua API e Dashboard, representa uma solução abrangente para o desafio de compreender e visualizar sentimentos em avaliações de produtos. A sinergia entre o backend e o frontend cria um sistema que não apenas processa dados eficientemente, mas também os apresenta de forma acessível e acionável.
